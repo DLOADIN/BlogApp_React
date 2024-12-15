@@ -1,12 +1,6 @@
 {
   "blogs": [
     {
-      "title": "My First Blog",
-      "body": "I vividly remember writing my first blog during high school. The idea of sharing my thoughts with the world was both thrilling and intimidating. I decided to write about a memorable school trip to the mountains. The excitement began as we boarded the bus, filled with laughter and chatter. As we journeyed through winding roads, the scenery transitioned from bustling towns to serene, snow-capped peaks. The adventure that followed was unforgettable—trekking through dense forests, crossing crystal-clear streams, and standing at the summit, looking down at the vast world below. I poured my heart into every sentence, capturing the camaraderie among my classmates, the late-night campfire stories, and the sense of accomplishment after a day of exploration. Writing that blog allowed me to relive those precious moments and reflect on the joy and lessons learned. The response to my blog was overwhelming. Friends, family, and even strangers left encouraging comments, sharing their own experiences. It was then I realized the power of words and their ability to connect people. That blog marked the beginning of my journey in self-expression and storytelling.",
-      "author": "Prince",
-      "id": "1"
-    },
-    {
       "title": "Opening Party",
       "body": "The opening party was an unforgettable event. The atmosphere was electric with excitement as people mingled, laughed, and danced. The venue was beautifully decorated with lights and flowers, creating a festive ambiance. There were various activities and games that kept everyone entertained. Delicious food and drinks were served throughout the evening, adding to the celebratory mood. The highlight of the night was the live music performance by a popular band, which had everyone on their feet, dancing to the rhythm. The party continued late into the night, with people forming new friendships and making lasting memories. It was a night of joy, celebration, and fun that set a high standard for future events.",
       "author": "Muhire Christopher",
@@ -43,10 +37,16 @@
       "author": "yoshi"
     },
     {
-      "id": "6b9e",
-      "title": "A Day in Kigali",
-      "body": "Explored Kigali today! Started with a lively market visit, sampling local foods. Then, a tour of the Nyamirambo Women’s Center - inspiring! Finished with stunning views from Mount Kigali. The city’s vibrant culture and warm people made it unforgettable. Can’t wait to explore more!",
-      "author": "mario"
+      "id": "fc4c",
+      "title": "lslflsdfslfjsflsfsflls",
+      "body": "f;nsfnsfns bbs,,slnldlblsdllnslfnlsn",
+      "author": "jqklnfsn.sn.fns.nf.snf.sn"
+    },
+    {
+      "id": "2e56",
+      "title": "Cursor",
+      "body": "Hello world",
+      "author": "Manzi"
     }
   ]
 }

@@ -23,7 +23,6 @@ function Create() {
       setAuthor('');
       history.push('/');
     })
-
   }
 
   return (
